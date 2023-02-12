@@ -14,18 +14,9 @@ or click [here](https://siddhantviper.github.io/calculator_web_app/)
 ## How to use
 1. Clone the repo
 ``` bash
-git clone https://your-repo-url.git
+git clone calculator_web_app
 ```
 
-2. Install dependencies
-``` bash
-npm install
-```
-
-3. Start the dev server
-``` bash
-npm run dev
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
